@@ -1,5 +1,7 @@
-## spotdl-gui-deb
+## About
 spotDL package for debian-based distros.
+
+Code sourced from [Spotify-Downloader by spotDL](https://github.com/spotDL/spotify-downloader)
 
 ## Instructions
 
